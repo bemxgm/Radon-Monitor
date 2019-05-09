@@ -32,7 +32,7 @@ Code
 Acknowledgments
 
 The present research has been developed within the project ‘PRACTICE’ (Planning Re-thinked Ageing Cities Through Innovative CellularEnvironments), financed under a cooperation framework between theRepublic of Italy and the Kingdom of Sweden, and carried out bySapienza - University of Rome and the Royal Institute of Technology ofStockholm, KTH. The authors desire also to thank the Dynamic Makersteam for their support. 
-The board has been made with a Cirquoid CNC (https://cirqoid.com/). 
+The board has been made with a Cirqoid CNC (https://cirqoid.com/). 
 
 License
   The Project is under GNL 3.0 license (https://opensource.org/licenses/GPL-3.0) and the authors shall be cited in the further works.
