@@ -20,7 +20,7 @@ The Project
 
 
 Shemetics
-  The schematis are avaiable in MULTISIM format or as Gerber files ready to be printed.
+  The schematis are avaiable in MULTISIM format or as Gerber files ready to be printed. 
   
 BOM
   The folder "BOM" contain the list with costs of the components.
@@ -28,6 +28,11 @@ BOM
 Code
   The folder "Code" contains the code used for the system, for arduino or other MCU. It is avaiable also a compotuer dataloggher 
   written in python.
+
+Acknowledgments
+
+The present research has been developed within the project ‘PRACTICE’ (Planning Re-thinked Ageing Cities Through Innovative CellularEnvironments), financed under a cooperation framework between theRepublic of Italy and the Kingdom of Sweden, and carried out bySapienza - University of Rome and the Royal Institute of Technology ofStockholm, KTH. The authors desire also to thank the Dynamic Makersteam for their support. 
+The board has been made with a Cirquoid CNC (https://cirqoid.com/). 
 
 License
   The Project is under GNL 3.0 license (https://opensource.org/licenses/GPL-3.0) and the authors shall be cited in the further works.
